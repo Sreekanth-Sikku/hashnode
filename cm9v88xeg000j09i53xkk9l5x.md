@@ -3,7 +3,6 @@ title: "Becoming a Top SDET: A Comprehensive Guide to Automation Testing with Ja
 datePublished: Thu Apr 24 2025 10:35:56 GMT+0000 (Coordinated Universal Time)
 cuid: cm9v88xeg000j09i53xkk9l5x
 slug: becoming-a-top-sdet-a-comprehensive-guide-to-automation-testing-with-java-selenium-and-rest-assured
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1745490821377/5b63e196-f7df-4a9b-8617-7c787e66fa64.png
 
 ---
 
