@@ -7,7 +7,6 @@ cuid: clsr9pz9u000209l32axy4luz
 slug: java-roadmap-to-mastery
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708246098594/95ed0c7d-0af0-4d1c-8cd1-18a3a05a51c1.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1708240802900/b3c9ac01-d70e-472f-a58b-ed3856c9d20d.png
-tags: programming-blogs, java, learning, dsa
 
 ---
 
